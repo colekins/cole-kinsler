@@ -79,7 +79,12 @@ h1 {
 }
 
 .screenshot {
-  width: 92%;
+  width: 93%;
+  transition: 0.2s transform ease;
+}
+
+.screenshot:hover {
+  transform: scale(1.03);
 }
 
 @media (max-width: 991px) {
