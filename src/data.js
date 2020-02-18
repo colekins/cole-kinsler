@@ -47,17 +47,17 @@ const data = {
             "live": "https://colekins.github.io/myvinyl",
             "repo": "https://github.com/colekins/myvinyl",
             "screenshot": "https://i.imgur.com/bD99S5i.png"
-        },
-        {
-            "title": "Tic-Tac-Toe",
-            "date": "September 2017",
-            "description": ['Classic game of Tic-Tac-Toe. Game logic built with Javascript.', 
-                            'HTML, CSS, Javascript, jQuery, AJAX.'
-                        ],
-            "live": "https://colekins.github.io/tictactoe",
-            "repo": "https://github.com/colekins/tictactoe",
-            "screenshot": "https://i.imgur.com/uQ16U4Z.png"
         }
+        // {
+        //     "title": "Tic-Tac-Toe",
+        //     "date": "September 2017",
+        //     "description": ['Classic game of Tic-Tac-Toe. Game logic built with Javascript.', 
+        //                     'HTML, CSS, Javascript, jQuery, AJAX.'
+        //                 ],
+        //     "live": "https://colekins.github.io/tictactoe",
+        //     "repo": "https://github.com/colekins/tictactoe",
+        //     "screenshot": "https://i.imgur.com/uQ16U4Z.png"
+        // }
     ]
 };
 
