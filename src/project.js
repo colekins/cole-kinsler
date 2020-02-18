@@ -9,7 +9,7 @@ function Project(props) {
             <div className="caption"><span>{props.project.date}</span></div>
             {
                 props.project.description.map(function (text, i) {
-                    return (<p>{text}</p>)
+                    return (<p key={i} >{text}</p>)
                 })
             }
             <div className="actions">

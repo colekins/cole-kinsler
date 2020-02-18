@@ -9,6 +9,7 @@ function Projects() {
             data.projects.map(function (item, i) {
                 return <Project 
                     project = {item}
+                    key = {i}
                 />
             })
         }

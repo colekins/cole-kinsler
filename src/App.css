@@ -49,6 +49,7 @@ h1 {
     height: 177px;
     float: right;
     border-radius: 50%;
+    margin-top: 15px;
   }
 
   .actions {
