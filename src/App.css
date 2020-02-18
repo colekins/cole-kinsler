@@ -1,38 +1,107 @@
-.App {
-  text-align: center;
+body {
+  font-family: 'Nunito', sans-serif;
+  padding-top: 30px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+h1 {
+  display: block;
+  font-weight: 300;
+  font-size: 48px;
+  margin-bottom: 0;
+  margin-left: -5px;
   }
+
+.appname {
+  font-weight: 400;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.intro-box {
+  text-align: left;
+}
+
+.intro-link {
+    font-weight: 500;
+  }
+
+.intro {
+    font-size: 18px;
+    font-weight: 500;
+  }
+
+.sub {
+    font-size: 14px;
+    font-weight: 300;
+  }
+
+.caption {
+    margin-bottom: 16px;
+    font-size: 13px;
+    line-height: 15px;
+    color: #a8a8a8;
+    font-weight: 400;
+  }
+
+.row {
+    margin-bottom: 38px;
+  }
+
+.profile {
+    height: 188px;
+    float: right;
+    padding-top: 18px;
+    margin-bottom: 7px;
+    margin-left: 7px;
+    margin-right: 8px;
+  }
+
+  .actions {
+    margin-top: 12px;
+  }
+
+  .actions a {
+    color: #4aaef7;
+    font-size: 13.7px;
+    line-height: 16px;
+    font-weight: 600;
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    padding: 6px 8px;
+    border: 2px solid #4aaef7;
+    border-radius: 3px;
+}
+
+.actions :hover {
   color: white;
+  background-color: #4aaef7;
 }
 
-.App-link {
-  color: #61dafb;
+.project {
+  text-align: right;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.screenshot {
+  width: 92%;
+}
+
+@media (max-width: 991px) {
+  .project {
+    text-align: left;
+    }
+    .screenshot {
+      width: 97%;
+    }
+}
+
+@media (max-width: 800px) {
+  .profile {
+    height: 175px;
+    }
+}
+
+@media (max-width: 580px) {
+  .profile {
+    height: 146px;
+    }
 }
