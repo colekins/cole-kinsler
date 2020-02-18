@@ -8,7 +8,7 @@ h1 {
   font-weight: 300;
   font-size: 48px;
   margin-bottom: 0;
-  margin-left: -5px;
+  margin-left: -4px;
   }
 
 .appname {
@@ -62,9 +62,9 @@ h1 {
 
   .actions a {
     color: #4aaef7;
-    font-size: 14.2px;
+    font-size: 14px;
     line-height: 17px;
-    font-weight: 600;
+    font-weight: 700;
     text-decoration: none;
     display: inline-block;
     margin-right: 8px;
