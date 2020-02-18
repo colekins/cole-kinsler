@@ -72,12 +72,13 @@ h1 {
     padding: 6px 8px;
     border: 2px solid #4aaef7;
     border-radius: 3px;
-    transition: 0.2s all ease;
+    transition: 0.3s all ease;
 }
 
-.actions :hover {
+.actions > a:hover {
   color: white;
   background-color: #4aaef7;
+  transform: scale(1.1);
 }
 
 .project {
@@ -86,11 +87,11 @@ h1 {
 
 .screenshot {
   width: 93%;
-  transition: 0.2s transform ease;
+  transition: 0.3s transform ease;
 }
 
 .screenshot:hover {
-  transform: scale(1.02);
+  transform: scale(1.03);
 }
 
 @media (max-width: 991px) {
