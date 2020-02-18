@@ -68,6 +68,7 @@ h1 {
     padding: 6px 8px;
     border: 2px solid #4aaef7;
     border-radius: 3px;
+    transition: 0.2s all ease;
 }
 
 .actions :hover {
@@ -81,7 +82,7 @@ h1 {
 
 .screenshot {
   width: 93%;
-  transition: 0.3s transform ease;
+  transition: 0.2s transform ease;
 }
 
 .screenshot:hover {
