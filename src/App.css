@@ -1,6 +1,7 @@
 body {
   font-family: 'Nunito', sans-serif;
   padding-top: 30px;
+  box-sizing: border-box;
 }
 
 h1 {
@@ -54,6 +55,7 @@ h1 {
     height: 177px;
     float: right;
     border-radius: 50%;
+    /* transition: 0.5s all ease; */
     margin-top: 11px;
   }
 
