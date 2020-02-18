@@ -13,7 +13,7 @@ const Header = () => {
                     An ambitious developer who is eager to solve real-world problems with unique solutions. Driven by a passion for creativity, I am constantly expanding my skill set to drive thoughtfully designed applications.
                 </p>
                 <p className="sub">
-                    I enjoy working with Javascript, React, HTML5, CSS3, Sass, jQuery and Ruby on Rails. I'm especially interested in emerging front end frameworks and CSS grid at the moment.
+                    I enjoy working with Javascript, React, HTML5, CSS3, Sass and Node. I'm especially interested in emerging front end frameworks, GraphQL, and CSS Grid at the moment.
                 </p>
                 <div className="actions">
                     <a href="mailto:colekins@gmail.com?Subject=Hi there" rel="noopener noreferrer" target="_blank">Email</a>

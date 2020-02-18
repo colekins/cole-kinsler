@@ -46,7 +46,7 @@ h1 {
   }
 
 .profile {
-    height: 160px;
+    height: 177px;
     float: right;
     border-radius: 50%;
   }
@@ -80,11 +80,11 @@ h1 {
 
 .screenshot {
   width: 93%;
-  transition: 0.2s transform ease;
+  transition: 0.3s transform ease;
 }
 
 .screenshot:hover {
-  transform: scale(1.03);
+  transform: scale(1.02);
 }
 
 @media (max-width: 991px) {

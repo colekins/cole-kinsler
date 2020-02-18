@@ -13,7 +13,8 @@ const data = {
         {
             "title": "VoteDems",
             "date": "August 2019",
-            "description": ["Simple POC app to compare the plans of the 2020 Presidential candidates. Includes Netflix-esque horizontal scrolling cards and CSS theme switcher.", 
+            "description": ["Simple POC app to compare the plans of the 2020 Presidential candidates.",
+                            "Includes Netflix-style horizontal scrolling cards and a CSS theme toggle.", 
                             'React, Javascript, Node, CSS.'],
             "live": "https://votedems.info",
             "repo": "https://github.com/colekins/votedems.info",
