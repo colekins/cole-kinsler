@@ -15,6 +15,10 @@ h1 {
   font-weight: 400;
 }
 
+.mobile-screenshot {
+  display: none;
+}
+
 .intro-box {
   text-align: left;
 }
@@ -42,7 +46,7 @@ h1 {
   }
 
 .row {
-    margin-bottom: 38px;
+    margin-bottom: 2.5em;
   }
 
 .profile {
@@ -80,12 +84,12 @@ h1 {
   text-align: right;
 }
 
-.desktop-screenshot {
+.screenshot {
   width: 93%;
   transition: 0.2s transform ease;
 }
 
-.desktop-screenshot:hover {
+.screenshot:hover {
   transform: scale(1.02);
 }
 
@@ -93,7 +97,7 @@ h1 {
   .project {
     text-align: left;
     }
-    .desktop-screenshot {
+    .screenshot {
       width: 97%;
     }
 }
@@ -108,6 +112,20 @@ h1 {
 @media (max-width: 580px) {
   .profile {
     height: 125px;
+    }
+}
+
+@media (max-width: 992px) {
+  .desktop-screenshot {
+    display: none;
+    }
+
+  .mobile-screenshot {
+      display: inline;
+    }
+
+    .row {
+      margin-bottom: 1.5em;
     }
 }
 
