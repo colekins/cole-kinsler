@@ -5,7 +5,7 @@ const Header = () => {
     return (
         <div className="">
             <div className="row">
-                <img className="profile" alt='profile' src="https://i.imgur.com/eNAhoPc.png"/>
+                <img className="profile" alt='profile' src="https://i.imgur.com/3GuSFbJ.jpg"/>
                 <div className="col-md-7 intro-box">
                 <h1 className="name">Cole Kinsler</h1>
                 <div className="caption"><span>Web Developer in Portland, ME</span></div>
