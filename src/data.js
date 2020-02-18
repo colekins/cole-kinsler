@@ -8,7 +8,7 @@ const data = {
                             'React, Javascript, Node, CSS, CSV parser, Travis CI, Netlify CD.'],
             "live": "https://scorecard.sunrisemovement.org",
             "repo": "https://github.com/sunrisemovement/scorecard",
-            "screenshot" : "https://i.imgur.com/gkVT1Lx.png"
+            "screenshot" : "https://i.imgur.com/DSxd1dw.png"
         },
         {
             "title": "VoteDems",
@@ -18,7 +18,7 @@ const data = {
                             'React, Javascript, Node, CSS.'],
             "live": "https://votedems.info",
             "repo": "https://github.com/colekins/votedems.info",
-            "screenshot" : "https://i.imgur.com/mPyt192.png"
+            "screenshot" : "https://i.imgur.com/PyOhcwO.png"
         },
         {
             "title": "Pile",
@@ -27,7 +27,7 @@ const data = {
                             'HTML, CSS, Bootstrap, Tumblr API.'],
             "live": "https://pilemusic.com",
             "repo": "https://github.com/colekins/pile",
-            "screenshot" : "https://i.imgur.com/uDxmqNj.png"
+            "screenshot" : "https://i.imgur.com/iwch7jw.png"
         },
         {
             "title": "Dust, Etc.",
@@ -36,7 +36,7 @@ const data = {
                             'HTML, CSS, Bootstrap, Bandcamp embeds.'],
             "live": "https://dustetc.com",
             "repo": "https://github.com/colekins/dust_etc",
-            "screenshot" : "https://i.imgur.com/IiDUXbL.png"
+            "screenshot" : "https://i.imgur.com/0disyUC.png"
         },
         {
             "title": "BookStack",
@@ -46,7 +46,7 @@ const data = {
                             'HTML, CSS, Bootstrap, Javascript, jQuery, AJAX, Handlebars, Ruby on Rails, PostgreSQL.'],
             "live": "https://colekins.github.io/bookstack",
             "repo": "https://github.com/colekins/bookstack",
-            "screenshot" : "https://i.imgur.com/epg5geD.png"
+            "screenshot" : "https://i.imgur.com/BdEUUDZ.png"
         },
         {
             "title": "MyVinyl",
@@ -56,7 +56,7 @@ const data = {
                             'HTML, CSS, Bootstrap, Javascript, jQuery, AJAX, Handlebars, Ruby on Rails, PostgreSQL.'],
             "live": "https://colekins.github.io/myvinyl",
             "repo": "https://github.com/colekins/myvinyl",
-            "screenshot": "https://i.imgur.com/mfNMYMt.png"
+            "screenshot": "https://i.imgur.com/Iq3gSBd.png"
         }
         // {
         //     "title": "Tic-Tac-Toe",
