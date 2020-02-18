@@ -107,11 +107,11 @@ h1 {
 
 @media (max-width: 580px) {
   .profile {
-    height: 128px;
+    height: 125px;
     }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 370px) {
   .profile {
     height: 110px;
     }
