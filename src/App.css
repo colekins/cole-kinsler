@@ -97,21 +97,26 @@ h1 {
   .project {
     text-align: left;
     }
-    .screenshot {
-      width: 97%;
+
+  .screenshot {
+    width: 97%;
+  }
+
+  .profile {
+    height: 145px;
+    margin-top: 0px;
     }
 }
 
 @media (max-width: 800px) {
   .profile {
-    height: 175px;
     margin: .75em;
     }
 }
 
 @media (max-width: 580px) {
   .profile {
-    height: 125px;
+    height: 120px;
     }
 }
 
