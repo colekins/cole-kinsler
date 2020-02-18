@@ -57,17 +57,17 @@ h1 {
   }
 
   .actions {
-    margin-top: 12px;
+    margin-top: 1.2em;
   }
 
   .actions a {
     color: #4aaef7;
-    font-size: 13.7px;
-    line-height: 16px;
+    font-size: 14.2px;
+    line-height: 17px;
     font-weight: 600;
     text-decoration: none;
     display: inline-block;
-    margin-right: 5px;
+    margin-right: 8px;
     margin-bottom: 10px;
     padding: 6px 8px;
     border: 2px solid #4aaef7;
