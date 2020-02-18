@@ -11,9 +11,18 @@ const data = {
             "screenshot" : "https://i.imgur.com/4TvHRfj.png"
         },
         {
+            "title": "VoteDems",
+            "date": "August 2019",
+            "description": ["Simple POC app to compare the plans of the 2020 Presidential candidates. Includes Netflix-esque horizontal scrolling cards and CSS theme switcher.", 
+                            'React, Javascript, Node, CSS.'],
+            "live": "https://votedems.info",
+            "repo": "https://github.com/colekins/votedems.info",
+            "screenshot" : "https://i.imgur.com/XS5DkuV.png"
+        },
+        {
             "title": "Pile",
             "date": "March 2019",
-            "description": ["Website for rock band from Boston, MA. Headless CMS solution using the band's preexisting tumblr blog.", 
+            "description": ["Website for rock band from Boston, MA. Headless CMS solution using the band's preexisting Tumblr blog.", 
                             'HTML, CSS, Bootstrap, Tumblr API.'],
             "live": "https://pilemusic.com",
             "repo": "https://github.com/colekins/pile",
