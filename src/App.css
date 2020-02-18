@@ -80,12 +80,12 @@ h1 {
   text-align: right;
 }
 
-.screenshot {
+.desktop-screenshot {
   width: 93%;
   transition: 0.2s transform ease;
 }
 
-.screenshot:hover {
+.desktop-screenshot:hover {
   transform: scale(1.02);
 }
 
@@ -93,7 +93,7 @@ h1 {
   .project {
     text-align: left;
     }
-    .screenshot {
+    .desktop-screenshot {
       width: 97%;
     }
 }
