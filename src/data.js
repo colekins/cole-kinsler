@@ -20,15 +20,15 @@ const data = {
             "repo": "https://github.com/colekins/votedems.info",
             "screenshot" : "https://i.imgur.com/PyOhcwO.png"
         },
-        {
-            "title": "Pile",
-            "date": "March 2019",
-            "description": ["Website for rock band from Boston, MA. Headless CMS solution using the band's preexisting Tumblr blog.", 
-                            'HTML, CSS, Bootstrap, Tumblr API.'],
-            "live": "https://pilemusic.com",
-            "repo": "https://github.com/colekins/pile",
-            "screenshot" : "https://i.imgur.com/iwch7jw.png"
-        },
+        // {
+        //     "title": "Pile",
+        //     "date": "March 2019",
+        //     "description": ["Website for rock band from Boston, MA. Headless CMS solution using the band's preexisting Tumblr blog.", 
+        //                     'HTML, CSS, Bootstrap, Tumblr API.'],
+        //     "live": "https://pilemusic.com",
+        //     "repo": "https://github.com/colekins/pile",
+        //     "screenshot" : "https://i.imgur.com/iwch7jw.png"
+        // },
         {
             "title": "Dust, Etc.",
             "date": "March 2018",
