@@ -3,7 +3,7 @@ const data = {
         {
             "title": "Sunrise Presidential Scorecard",
             "date": "December 2019",
-            "description": ["2020 Presidential scorecard web app. Scalable React UI dynamically builds all tables and modal content. Custom parser script translates CSV data into consumable JSON.", 
+            "description": ["Presidential scorecard web app. Scalable React UI dynamically builds all tables and modal content. Custom parser script translates CSV data into consumable JSON.", 
                             "Led React development in coordination with a small of team of volunteer designers & developers.",
                             'React, Javascript, Node, CSS, CSV parser, Travis CI, Netlify CD.'],
             "live": "https://scorecard.sunrisemovement.org",
@@ -13,7 +13,7 @@ const data = {
         {
             "title": "Pile",
             "date": "March 2019",
-            "description": ["Website for rock band from Boston, MA. Headless CMS solution using the band's preexisting tumblr.", 
+            "description": ["Website for rock band from Boston, MA. Headless CMS solution using the band's preexisting tumblr blog.", 
                             'HTML, CSS, Bootstrap, Tumblr API.'],
             "live": "https://pilemusic.com",
             "repo": "https://github.com/colekins/pile",
@@ -22,7 +22,7 @@ const data = {
         {
             "title": "Dust, Etc.",
             "date": "March 2018",
-            "description": ['Website for DIY record label in Boston, MA.', 
+            "description": ['Simple static website for DIY record label in Boston, MA.', 
                             'HTML, CSS, Bootstrap, Bandcamp embeds.'],
             "live": "https://dustetc.com",
             "repo": "https://github.com/colekins/dust_etc",
