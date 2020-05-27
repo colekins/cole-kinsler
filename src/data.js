@@ -16,7 +16,7 @@ const data = {
       title: "Dust, Etc.",
       date: "May 2020",
       description: [
-        "Single page application with CMS integration for a DIY record label in Portland, ME.",
+        "SPA website with CMS integration for a DIY record label in Portland, ME.",
         "Vue, Netlify CMS, Javascript, CSS, BootstrapVue.",
       ],
       live: "https://dustetc.com",
