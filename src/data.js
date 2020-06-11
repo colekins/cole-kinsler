@@ -6,9 +6,9 @@ const data = {
       description: [
         "Presidential scorecard web app. Scalable React UI dynamically builds all tables and modal content. Custom parser script translates CSV data into consumable JSON.",
         "Led React development in coordination with a small of team of volunteer designers & developers.",
-        "React, Javascript, Node, CSS, CSV parser, Travis CI, Netlify CD.",
+        "React, Javascript, Node, CSS, CSV Parser, Travis CI, Netlify CD.",
       ],
-      live: "https://scorecard.sunrisemovement.org",
+      live: "https://sunrisemovement.github.io/scorecard/",
       repo: "https://github.com/sunrisemovement/scorecard",
       screenshot: "https://i.imgur.com/DSxd1dw.png",
     },
