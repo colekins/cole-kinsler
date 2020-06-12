@@ -9,6 +9,13 @@ function Projects() {
         return <Project project={item} key={i} />;
       })}
       <hr></hr>
+      <div className="music-note">
+        If you're looking for my music, you should go{" "}
+        <a href="http://spacemountain.bandcamp.com" target="_blank">
+          here
+        </a>
+        .
+      </div>
     </div>
   );
 }
