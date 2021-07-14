@@ -1,18 +1,8 @@
 const data = {
   projects: [
     {
-      title: 'Pile',
-      date: 'July 2021',
-      description: [
-        'Website for rock band from Boston. Features custom CMS solution and filterable concerts widget.',
-        'Nuxt, Netlify CMS, Javascript, CSS, Bootstrap.',
-      ],
-      live: 'https://pilemusic.com',
-      screenshot: 'https://i.imgur.com/tNsKamW.png',
-    },
-    {
       title: 'Sunrise Presidential Scorecard',
-      date: 'December 2019',
+      date: 'January 2020',
       description: [
         'Presidential scorecard web app. Scalable React UI dynamically builds all tables and modal content. Custom parser script translates CSV data into consumable JSON.',
         'Led React development in coordination with a small of team of volunteer designers & developers.',
@@ -21,6 +11,16 @@ const data = {
       live: 'https://sunrisemovement.github.io/scorecard/',
       repo: 'https://github.com/sunrisemovement/scorecard',
       screenshot: 'https://i.imgur.com/DSxd1dw.png',
+    },
+    {
+      title: 'Pile',
+      date: 'July 2021',
+      description: [
+        'Website for rock band from Boston. Features custom CMS solution and filterable concerts widget.',
+        'Nuxt, Netlify CMS, Javascript, CSS, Bootstrap.',
+      ],
+      live: 'https://pilemusic.com',
+      screenshot: 'https://i.imgur.com/tNsKamW.png',
     },
     {
       title: 'Dust, Etc.',
