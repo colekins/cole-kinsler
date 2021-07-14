@@ -1,11 +1,11 @@
-import React from "react";
-import "./App.css";
-import Header from "./header.js";
-import Projects from "./projects.js";
+import React from 'react';
+import './App.css';
+import Header from './header.js';
+import Projects from './projects.js';
 
 function App() {
   return (
-    <div className="App">
+    <div className='App'>
       <Header />
       <Projects />
     </div>

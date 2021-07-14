@@ -4,8 +4,9 @@ const data = {
       title: 'Pile',
       date: 'July 2021',
       description: [
-        "Website for rock band from Boston. Features custom CMS solution and filterable concerts widget.",
-                        'Nuxt, Netlify CMS, Javascript, CSS, Bootstrap.'],
+        'Website for rock band from Boston. Features custom CMS solution and filterable concerts widget.',
+        'Nuxt, Netlify CMS, Javascript, CSS, Bootstrap.',
+      ],
       live: 'https://pilemusic.com',
       screenshot: 'https://i.imgur.com/tNsKamW.png',
     },

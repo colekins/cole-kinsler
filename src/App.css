@@ -121,6 +121,7 @@ h1 {
 .music-note {
   /* text-align: center; */
   padding-bottom: 4em;
+  font-size: 15px;
 }
 
 .screenshot {
