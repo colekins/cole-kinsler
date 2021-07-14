@@ -1,22 +1,21 @@
 body {
-  font-family: "Nunito", sans-serif;
+  font-family: 'Nunito', sans-serif;
   padding-top: 30px;
   box-sizing: border-box;
-
 }
 
 h1 {
   display: block;
   font-weight: 300;
   font-size: 48px;
-  margin-bottom: .2em;
+  margin-bottom: 0.2em;
   margin-left: -5px;
 }
 
 .appname {
   font-weight: 400;
   font-size: 26px;
-  margin-bottom: .25em;
+  margin-bottom: 0.25em;
 }
 
 .mobile-screenshot {
@@ -45,9 +44,8 @@ h1 {
 }
 
 .project-description {
-font-size: 15.5px;
+  font-size: 15.5px;
 }
-
 
 .row {
   margin-bottom: 3em;
@@ -62,7 +60,7 @@ font-size: 15.5px;
 }
 
 .actions {
-  margin-top: 1.2em;
+  margin-top: 2em;
 }
 
 .actions a {
@@ -203,11 +201,8 @@ font-size: 15.5px;
     color: #c2c2c2;
   }
 
-
-.private-repo {
-  color: #838383;
-  border: 2px solid #838383;
-
+  .private-repo {
+    color: #838383;
+    border: 2px solid #838383;
+  }
 }
-}
-
