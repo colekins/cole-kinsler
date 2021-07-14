@@ -17,7 +17,7 @@ function Project(props) {
           <span>{props.project.date}</span>
         </div>
         {props.project.description.map(function (text, i) {
-          return <p key={i}>{text}</p>;
+          return <p className="project-description" key={i}>{text}</p>;
         })}
         <div className="actions">
           <a
@@ -27,13 +27,15 @@ function Project(props) {
           >
             Live
           </a>
-          <a
+          {props.project.repo ? 
+            <a
             href={props.project.repo}
             target="_blank"
             rel="noopener noreferrer"
           >
             GitHub
-          </a>
+          </a> :
+        <span className="private-repo">Private Repo</span>}
         </div>
       </div>
       <div className="col-md-7">

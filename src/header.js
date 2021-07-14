@@ -12,15 +12,10 @@ const Header = () => {
         />
         <div className="col-md-7 intro-box">
           <h1 className="name">Cole Kinsler</h1>
-          <div className="caption">
-            <span>Web Developer in Portland, ME</span>
-          </div>
           <p className="intro">
-            An ambitious developer who is eager to solve real-world problems
-            with unique solutions. Driven by a passion for creativity, I enjoy
-            expanding my skill set to drive thoughtfully designed applications.
+            Hi there, I'm a developer located in Portland, Maine.
           </p>
-          <p className="sub">
+          <p className="intro">
             I like working with Javascript, React, Vue, HTML5, CSS3, Sass and
             Node. I'm especially interested in emerging front end frameworks,
             GraphQL, and CSS Grid at the moment.

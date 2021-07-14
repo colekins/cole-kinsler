@@ -1,39 +1,38 @@
-@media (prefers-color-scheme: dark) {
-  body,
-  html {
-    background: rgb(20, 20, 20);
-    color: white;
-  }
 
-  a,
-  a:hover,
-  a:visited,
-  a:active {
-    color: #81caff;
-  }
-}
+
+
 
 body {
   font-family: "Nunito", sans-serif;
   padding-top: 30px;
   box-sizing: border-box;
+
 }
 
 h1 {
   display: block;
   font-weight: 300;
   font-size: 48px;
-  margin-bottom: 0;
+  margin-bottom: .2em;
   margin-left: -5px;
 }
 
 .appname {
   font-weight: 400;
-  margin-bottom: 5px;
+  /* margin-bottom: 5px; */
+  font-size: 26px;
 }
 
 .mobile-screenshot {
   display: none;
+}
+
+.caption {
+  margin-bottom: 2em;
+  font-size: 13px;
+  line-height: 16px;
+  color: #616161;
+  font-weight: 400;
 }
 
 .intro-box {
@@ -49,18 +48,10 @@ h1 {
   font-weight: 400;
 }
 
-.sub {
-  font-size: 14px;
-  font-weight: 300;
+.project-description {
+font-size: 15.5px;
 }
 
-.caption {
-  margin-bottom: 2em;
-  font-size: 13px;
-  line-height: 16px;
-  color: #a8a8a8;
-  font-weight: 400;
-}
 
 .row {
   margin-bottom: 3em;
@@ -90,6 +81,19 @@ h1 {
   border: 2px solid #4aaef7;
   border-radius: 3px;
   transition: 0.3s all ease;
+}
+
+.private-repo {
+  color: #bebebe;
+  font-size: 14px;
+  line-height: 17px;
+  font-weight: 700;
+  text-decoration: none;
+  display: inline-block;
+  margin-right: 0.9em;
+  padding: 6px 8px;
+  border: 2px solid #bebebe;
+  border-radius: 3px;
 }
 
 .actions > a:hover {
@@ -183,3 +187,30 @@ h1 {
     margin-bottom: 1.5em;
   }
 }
+
+@media (prefers-color-scheme: dark) {
+  body,
+  html {
+    background: rgb(20, 20, 20);
+    color: white;
+  }
+
+  a,
+  a:hover,
+  a:visited,
+  a:active {
+    color: #81caff;
+  }
+
+  .caption {
+    color: #c2c2c2;
+  }
+
+
+.private-repo {
+  color: #838383;
+  border: 2px solid #838383;
+
+}
+}
+

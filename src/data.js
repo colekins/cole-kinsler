@@ -1,6 +1,15 @@
 const data = {
   projects: [
     {
+      title: 'Pile',
+      date: 'July 2021',
+      description: [
+        "Website for rock band from Boston. Features custom CMS solution and filterable concerts widget.",
+                        'Nuxt, Netlify CMS, Javascript, CSS, Bootstrap.'],
+      live: 'https://pilemusic.com',
+      screenshot: 'https://i.imgur.com/tNsKamW.png',
+    },
+    {
       title: 'Sunrise Presidential Scorecard',
       date: 'December 2019',
       description: [
@@ -17,7 +26,7 @@ const data = {
       date: 'May 2020',
       description: [
         'SPA website with CMS integration for a DIY record label in Portland, ME.',
-        'Vue, Netlify CMS, Javascript, CSS, BootstrapVue.',
+        'Vue, Netlify CMS, Javascript, CSS, Bootstrap.',
       ],
       live: 'https://dustetc.com',
       repo: 'https://github.com/colekins/dust-etc-vue',
@@ -35,16 +44,6 @@ const data = {
       repo: 'https://github.com/colekins/votedems.info',
       screenshot: 'https://i.imgur.com/PyOhcwO.png',
     },
-    // {
-    //     "title": "Pile",
-    //     "date": "March 2019",
-    //     "description": ["Website for rock band from Boston, MA. Headless CMS solution using the band's preexisting Tumblr blog.",
-    //                     'HTML, CSS, Bootstrap, Tumblr API.'],
-    //     "live": "https://pilemusic.com",
-    //     "repo": "https://github.com/colekins/pile",
-    //     "screenshot" : "https://i.imgur.com/iwch7jw.png"
-    // },
-
     {
       title: 'BookStack',
       date: 'December 2017',
