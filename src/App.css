@@ -55,8 +55,7 @@ h1 {
   height: 177px;
   float: right;
   border-radius: 50%;
-  /* transition: 0.5s all ease; */
-  margin-top: 11px;
+  margin: 1em;
 }
 
 .actions {
